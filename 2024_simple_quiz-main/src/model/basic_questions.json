@@ -1,0 +1,17 @@
+
+[{
+    "id":1,
+    "question": "What is the capital of Connecticut?",
+    "answers": [{ "answer":"Stamford", "isCorrect":false }, { "answer": "Storrs", "isCorrect":false }, { "answer": "Hartford", "isCorrect":true } ]
+  },
+  {
+    "id":2,
+    "question": "What is the square root of 16?",
+    "answers": [{ "answer": "4", "isCorrect":true }, { "answer": "8", "isCorrect":false }, { "answer":"16", "isCorrect":false }]
+  },
+  {
+    "id":3,
+    "question": "What type of number is 101?",
+    "answers": [{ "answer": "prime", "isCorrect":true }, { "answer": "composite", "isCorrect":false }, { "answer":"neigher", "isCorrect":false }, { "answer":"both", "isCorrect":false }]
+  }
+]
